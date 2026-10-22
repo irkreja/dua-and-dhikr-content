@@ -1,0 +1,465 @@
+{
+  "version": "0.1.0",
+  "items": [
+    {
+      "id": "adhan-response",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "جَوَابُ الْاَذَانِ وَدُعَاءُ مَا بَعْدَهٗ",
+        "bn": "আযানের জবাব ও আযান-পরবর্তী মাসনূন দু‘আ",
+        "en": "Response to the Adhan & Dua After It"
+      }
+    },
+    {
+      "id": "adhan",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "أَذَان وَإِقَامَة",
+        "bn": "আযান ও ইক্বামত",
+        "en": "Adhan & Iqamah"
+      }
+    },
+    {
+      "id": "ayat-al-kursi",
+      "types": [
+        "quran"
+      ],
+      "title": {
+        "ar": "آيَة ٱلْكُرْسِيّ",
+        "bn": "আয়াতুল কুরসী",
+        "en": "Ayat al-Kursi"
+      }
+    },
+    {
+      "id": "dua-before-eating-and-dua-after-eating",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "دُعَاءُ الطَّعَامِ",
+        "bn": "খাওয়ার আগের দোয়া ও পরের দু‘আ",
+        "en": "Duas for Eating"
+      }
+    },
+    {
+      "id": "dua-for-increasing-knowledge",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "জ্ঞান বৃদ্ধির দোয়া",
+        "en": "Dua for Increasing Knowledge"
+      }
+    },
+    {
+      "id": "dua-for-knowledge-sustenance-and-accepted-deeds",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "دُعَاءٌ بَعۡدَ صَلَاةِ الۡفَجۡرِ",
+        "bn": "উপকারী জ্ঞান, হালাল রিজিক ও কবুলযোগ্য আমলের দু‘আ",
+        "en": "Dua After Fajr"
+      }
+    },
+    {
+      "id": "dua-for-protection-from-dajjal",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "দাজ্জালের ফিতনা থেকে আশ্রয়ের দু’আ",
+        "en": "Seeking Refuge from the Trial of the Dajjal"
+      }
+    },
+    {
+      "id": "dua-for-refuge-from-diseases",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "دُعَاءُ الْاِسْتِعَاذَةِ مِنَ الْاَمْرَاضِ",
+        "bn": "রোগব্যাধি থেকে আশ্রয় প্রার্থনার দু‘আ",
+        "en": "Dua for Seeking Refuge from Diseases"
+      }
+    },
+    {
+      "id": "dua-for-refuge-from-evil-of-organs",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "অঙ্গ-প্রত্যঙ্গের অনিষ্ট থেকে আশ্রয় প্রার্থনার দু‘আ",
+        "en": "Dua for Seeking Refuge from the Evil of One's Faculties"
+      }
+    },
+    {
+      "id": "dua-for-rizq-and-needs",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "সংকট ও প্রয়োজনের দু‘আ",
+        "en": "Duas for Hardship and Need"
+      }
+    },
+    {
+      "id": "dua-for-sleep-and-wake",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "دُعَاءُ النَّوۡمِ وَالۡاِسۡتِيۡقَاظِ",
+        "bn": "ঘুমানোর সময় ও ঘুম থেকে ওঠার দু‘আ",
+        "en": "Dua for Sleeping and Waking Up"
+      }
+    },
+    {
+      "id": "dua-for-visiting-graves",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "زِیَارَةُ الۡقُبُوۡرِ",
+        "bn": "কবর যিয়ারতের দু‘আ",
+        "en": "Dua for Visiting the Graves"
+      }
+    },
+    {
+      "id": "dua-istighfar-tawakkul",
+      "types": [
+        "dua",
+        "dhikr"
+      ],
+      "title": {
+        "ar": "",
+        "bn": "দু‘আ, ইস্তিগফার ও তাওয়াক্কুল: পরিবর্তনের পথে কিছু আমল",
+        "en": "Dua, Istighfar & Tawakkul: Deeds for Positive Change"
+      }
+    },
+    {
+      "id": "dua-masura",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "دُعَاءٌ مَأْثُورٌ",
+        "bn": "দু’আয়ে মাছুরা",
+        "en": "Dua Masura"
+      }
+    },
+    {
+      "id": "dua-of-janazah",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "دُعَاءُ الْجَنَازَةِ",
+        "bn": "জানাযার দু‘আ",
+        "en": "Dua of Janazah"
+      }
+    },
+    {
+      "id": "dua-qunut",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "اَلْقُنُوْتُ",
+        "bn": "দু’আয়ে কুনুত",
+        "en": "Dua Qunūt"
+      }
+    },
+    {
+      "id": "dua-using-ismu-azam-01",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "মহান আল্লাহর ইসমু আ’যম-১ (মনের আশা পূরণ হওয়ার দু’আ)",
+        "en": "Dua Using Al-Ismu’l-A’zam"
+      }
+    },
+    {
+      "id": "dua-using-ismu-azam-02",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "মহান আল্লাহর ইসমু আ’যম-২ (মনের আশা পূরণ হওয়ার দু’আ)",
+        "en": "Dua Using Al-Ismu’l-A’zam"
+      }
+    },
+    {
+      "id": "dua-when-entering-and-leaving-toilet",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "",
+        "bn": "টয়লেটে প্রবেশ ও বের হওয়ার দু‘আ",
+        "en": "Dua When Entering and Leaving The Toilet"
+      }
+    },
+    {
+      "id": "duas-and-dhikr-after-five-daily-prayers-01",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "পাঁচ ওয়াক্ত সালাত পরবর্তী মাসনূন দু‘আ ও যিক্‌র",
+        "en": "Duas and Dhikr After the Five Daily Prayers"
+      }
+    },
+    {
+      "id": "duas-and-dhikr-after-five-daily-prayers-02",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "পাঁচ ওয়াক্ত সালাত পরবর্তী মাসনূন দু‘আ ও যিক্‌র",
+        "en": "Duas and Dhikr After the Five Daily Prayers"
+      }
+    },
+    {
+      "id": "duas-and-dhikr-after-five-daily-prayers-03",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "পাঁচ ওয়াক্ত সালাত পরবর্তী মাসনূন দু‘আ ও যিক্‌র",
+        "en": "Duas and Dhikr After the Five Daily Prayers"
+      }
+    },
+    {
+      "id": "duas-and-dhikr-after-five-daily-prayers-04",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "পাঁচ ওয়াক্ত সালাত পরবর্তী মাসনূন দু‘আ ও যিক্‌র",
+        "en": "Duas and Dhikr After the Five Daily Prayers"
+      }
+    },
+    {
+      "id": "duas-and-dhikr-after-five-daily-prayers-05",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "পাঁচ ওয়াক্ত সালাত পরবর্তী মাসনূন দু‘আ ও যিক্‌র",
+        "en": "Duas and Dhikr After the Five Daily Prayers"
+      }
+    },
+    {
+      "id": "durood-e-ibrahim",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "اَلصَّلٰوةُ الۡاِبۡرٰهِيۡمِيَّةُ",
+        "bn": "দরূদে ইবরাহীম",
+        "en": "Durood Ibrahim"
+      }
+    },
+    {
+      "id": "durood-extended",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "اَلصَّلٰوةُ وَالسَّلَامُ عَلٰی النَّبِیِّ ﷺ",
+        "bn": "নবী ﷺ-এর প্রতি সালাত ও সালাম",
+        "en": "Durood"
+      }
+    },
+    {
+      "id": "durood",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "اَلصَّلٰوةُ وَالسَّلَامُ عَلٰى النَّبِيِّ ﷺ",
+        "bn": "নবী ﷺ-এর প্রতি সালাত ও সালাম",
+        "en": "Durood"
+      }
+    },
+    {
+      "id": "last-2-verses-of-surah-al-baqarah",
+      "types": [
+        "quran"
+      ],
+      "title": {
+        "bn": "সূরা বাক্বারার শেষ ২ আয়াত",
+        "en": "The Last 2 Verses of Surah Al-Baqarah"
+      }
+    },
+    {
+      "id": "last-3-verses-of-surah-al-hashr",
+      "types": [
+        "quran"
+      ],
+      "title": {
+        "bn": "সূরা হাশরের শেষ ৩ আয়াত",
+        "en": "The Last 3 Verses of Surah Al-Hashr"
+      }
+    },
+    {
+      "id": "quranic-dua-01",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "",
+        "bn": "কুরআনের দু‘আ",
+        "en": "Quranic Du'a"
+      }
+    },
+    {
+      "id": "quranic-dua-02",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "",
+        "bn": "কুরআনের দু‘আ",
+        "en": "Quranic Du'a"
+      }
+    },
+    {
+      "id": "quranic-dua-03",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "",
+        "bn": "কুরআনের দু‘আ",
+        "en": "Quranic Du'a"
+      }
+    },
+    {
+      "id": "sayyidul-istighfar-as-paragraph",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "سَيِّدُ الْاِسْتِغْفَارِ",
+        "bn": "সাইয়্যিদুল ইস্তিগফার",
+        "en": "Sayyidul Istighfar"
+      }
+    },
+    {
+      "id": "sayyidul-istighfar",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "سَيِّدُ الْاِسْتِغْفَارِ",
+        "bn": "সাইয়্যিদুল ইস্তিগফার",
+        "en": "Sayyidul Istighfar"
+      }
+    },
+    {
+      "id": "surah-al-falaq",
+      "types": [
+        "quran"
+      ],
+      "title": {
+        "ar": "سورة الفلق",
+        "bn": "সূরা ফালাক্ব",
+        "en": "Surah Al-Falaq"
+      }
+    },
+    {
+      "id": "surah-al-fatihah",
+      "types": [
+        "quran"
+      ],
+      "title": {
+        "ar": "سورة الفاتحة",
+        "bn": "সূরা ফাতিহা",
+        "en": "Surah Al-Fatihah"
+      }
+    },
+    {
+      "id": "surah-al-ikhlas",
+      "types": [
+        "quran"
+      ],
+      "title": {
+        "ar": "سورة الإخلاص",
+        "bn": "সূরা ইখলাস",
+        "en": "Surah Al-Ikhlas"
+      }
+    },
+    {
+      "id": "surah-an-nas",
+      "types": [
+        "quran"
+      ],
+      "title": {
+        "ar": "سورة الناس",
+        "bn": "সূরা নাস",
+        "en": "Surah An-Nas"
+      }
+    },
+    {
+      "id": "tasbih-and-dua-of-ruku-and-sujood",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "تَسۡبِيۡحُ الرُّكُوۡعِ وَالسُّجُوۡدِ وَدُعَاؤُهُمَا",
+        "bn": "রুকু ও সিজদাহ এর তাসবীহ ও দু‘আ",
+        "en": "Tasbih and Dua of Ruku & Sujood"
+      }
+    },
+    {
+      "id": "tashahhud",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "اَلتَّشَهُّدُ",
+        "bn": "তাশাহহুদ (সাক্ষ্য দেওয়া)",
+        "en": "Tashahhud"
+      }
+    },
+    {
+      "id": "taslim-after-salah",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "تَسْلِيْم",
+        "bn": "সালাতের শেষে তাসলীম",
+        "en": "Taslim at the End of Salah"
+      }
+    },
+    {
+      "id": "thana",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "ar": "ثَنَاءٌ",
+        "bn": "সানা (প্রশংসা)",
+        "en": "Thana (Opening Supplication)"
+      }
+    },
+    {
+      "id": "the-3-quls",
+      "types": [
+        "quran"
+      ],
+      "title": {
+        "bn": "সূরা ইখলাস, সূরা ফালাক্ব, সূরা নাস",
+        "en": "The 3 Quls"
+      }
+    }
+  ]
+}

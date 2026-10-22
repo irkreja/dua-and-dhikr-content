@@ -1,0 +1,61 @@
+{
+  "id": "dua-before-eating-and-dua-after-eating",
+  "type": "dua",
+  "title": {
+    "ar": "دُعَاءُ الطَّعَامِ",
+    "bn": "খাওয়ার আগের দোয়া ও পরের দু‘আ",
+    "en": "Duas for Eating"
+  },
+  "content": {
+    "items": [
+      {
+        "id": 1,
+        "text": "بِسْمِ اللّٰهِ",
+        "translation": "আল্লাহর নামে (শুরু করছি)।",
+        "badgeText": "খাবার শুরু করার আগে",
+        "showDivider": false,
+        "words": [
+          { "ar": "بِسْمِ", "bn": "নামে" },
+          { "ar": "اللّٰهِ", "bn": "আল্লাহর" }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "بِسْمِ اللّٰهِ اَوَّلَهٗ وَاٰخِرَهٗ",
+        "translation": "আল্লাহর নামে, এর শুরুতে ও শেষে।",
+        "badgeText": "শুরুতে বিসমিল্লাহ বলতে ভুলে গেলে, মনে পড়ার সাথে সাথে",
+        "showDivider": false,
+        "words": [
+          { "ar": "بِسْمِ", "bn": "নামে" },
+          { "ar": "اللّٰهِ", "bn": "আল্লাহর" },
+          { "ar": "اَوَّلَهٗ", "bn": "এর শুরুতে" },
+          { "ar": "وَاٰخِرَهٗ", "bn": "এবং এর শেষে" }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "اَلْحَمْدُ لِلّٰهِ",
+        "translation": "সমস্ত প্রশংসা আল্লাহর জন্য।",
+        "badgeText": "খাবার শেষে",
+        "showDivider": false,
+        "words": [
+          { "ar": "اَلْحَمْدُ", "bn": "সমস্ত প্রশংসা" },
+          { "ar": "لِلّٰهِ", "bn": "আল্লাহর জন্য" }
+        ]
+      }
+    ],
+    "fullTranslation": "[খাবারের আগে] আল্লাহর নামে (শুরু করছি)। [শুরুতে ভুলে গেলে] আল্লাহর নামে (খাচ্ছি) এর শুরুতে ও এর শেষে। [খাবার শেষে] সমস্ত প্রশংসা আল্লাহর জন্য।",
+    "reference": "আবূ দাঊদ, হাদীস নং- ৩৭৬৬, ৩৭৬৭;"
+  },
+  "settings": {
+    "textSize": { "text": 70, "wordByWord": 14, "translation": 18 },
+    "show": {
+      "wordByWordTranslation": true,
+      "translation": true,
+      "fullTranslation": false,
+      "reference": true,
+      "divider": true
+    },
+    "dividerMargin": 0
+  }
+}

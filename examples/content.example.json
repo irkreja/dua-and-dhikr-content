@@ -1,0 +1,83 @@
+{
+  "id": "",
+  "types": ["dua", "dhikr"],
+  "title": {
+    "ar": "",
+    "bn": "",
+    "en": ""
+  },
+  "subtitle": "",
+  "content": {
+    "items": [
+      {
+        "id": 1,
+        "text": "",
+        "translation": "",
+        "showDivider": true,
+        "badgeText": "১০০ বার",
+        "badgeIcon": "repeat",
+        "words": [
+          {
+            "ar": "",
+            "bn": ""
+          },
+          {
+            "ar": "",
+            "bn": ""
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "",
+        "translation": "",
+        "showDivider": true,
+        "badgeText": "সকাল-সন্ধ্যা",
+        "badgeIcon": "clock",
+        "words": [
+          {
+            "ar": "",
+            "bn": ""
+          },
+          {
+            "ar": "",
+            "bn": ""
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "",
+        "translation": "",
+        "showDivider": false,
+        "words": [
+          {
+            "ar": "",
+            "bn": ""
+          },
+          {
+            "ar": "",
+            "bn": ""
+          }
+        ]
+      }
+    ],
+    "fullTranslation": "",
+    "reference": ""
+  },
+  "settings": {
+    "textSize": {
+      "text": 70,
+      "wordByWord": 14,
+      "translation": 18
+    },
+    "show": {
+      "wordByWordTranslation": true,
+      "translation": false,
+      "fullTranslation": false,
+      "reference": false,
+      "divider": true
+    },
+    "dividerMargin": 0
+  }
+}

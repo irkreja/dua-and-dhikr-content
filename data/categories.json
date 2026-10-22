@@ -1,0 +1,103 @@
+[
+  {
+    "slug": "quran",
+    "title": {
+      "en": "Quran",
+      "bn": "কুরআন",
+      "ar": "القرآن"
+    },
+    "items": [
+      "surah-al-fatihah",
+      "ayat-al-kursi",
+      "surah-al-ikhlas",
+      "surah-al-falaq",
+      "surah-an-nas",
+      "the-3-quls",
+      "last-2-verses-of-surah-al-baqarah",
+      "last-3-verses-of-surah-al-hashr"
+    ]
+  },
+  {
+    "slug": "dua",
+    "title": {
+      "en": "Dua",
+      "bn": "দু’আ",
+      "ar": "دُعَاءً"
+    },
+    "items": [
+      "sayyidul-istighfar",
+      "sayyidul-istighfar-as-paragraph",
+      "dua-using-ismu-azam-01",
+      "dua-using-ismu-azam-02",
+      "quranic-dua-01",
+      "quranic-dua-02",
+      "quranic-dua-03",
+      "dua-for-increasing-knowledge",
+      "dua-when-entering-and-leaving-toilet",
+      "dua-for-sleep-and-wake",
+      "dua-before-eating-and-dua-after-eating",
+      "dua-for-refuge-from-diseases",
+      "dua-for-refuge-from-evil-of-organs",
+      "dua-for-visiting-graves",
+      "dua-for-knowledge-sustenance-and-accepted-deeds",
+      "dua-for-rizq-and-needs"
+    ]
+  },
+  {
+    "slug": "duas-and-dhikr-of-salah",
+    "title": {
+      "en": "Dua",
+      "bn": "সালাতের দু‘আ ও যিক্‌র"
+    },
+    "items": [
+      "adhan",
+      "adhan-response",
+      "thana",
+      "tasbih-and-dua-of-ruku-and-sujood",
+      "tashahhud",
+      "durood-e-ibrahim",
+      "dua-masura",
+      "dua-for-protection-from-dajjal",
+      "dua-qunut",
+      "dua-of-janazah",
+      "taslim-after-salah"
+    ]
+  },
+  {
+    "slug": "duas-and-dhikr-after-salah",
+    "type:": "dua",
+    "title": {
+      "en": "Duas and Dhikr After Salah",
+      "bn": "সালাত পরবর্তী দু‘আ ও যিক্‌র"
+    },
+    "items": [
+      "duas-and-dhikr-after-five-daily-prayers-01",
+      "ayat-al-kursi",
+      "duas-and-dhikr-after-five-daily-prayers-02",
+      "duas-and-dhikr-after-five-daily-prayers-03",
+      "duas-and-dhikr-after-five-daily-prayers-04",
+      "surah-al-ikhlas",
+      "surah-al-falaq",
+      "surah-an-nas",
+      "duas-and-dhikr-after-five-daily-prayers-05"
+    ]
+  },
+  {
+    "slug": "salawat",
+    "type:": "dua",
+    "title": {
+      "en": "Others",
+      "bn": "সালাওয়াত বা দরুদ"
+    },
+    "items": ["durood-e-ibrahim", "durood","durood-extended"]
+  },
+  {
+    "slug": "mix-of-everything",
+    "type:": "dua-and-dhikr",
+    "title": {
+      "en": "Others",
+      "bn": "অন্যান্য"
+    },
+    "items": ["dua-istighfar-tawakkul"]
+  }
+]

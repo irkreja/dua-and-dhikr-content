@@ -1,0 +1,66 @@
+{
+  "id": "duas-and-dhikr-after-five-daily-prayers-03",
+  "type": "dua",
+  "title": {
+    "bn": "পাঁচ ওয়াক্ত সালাত পরবর্তী মাসনূন দু‘আ ও যিক্‌র",
+    "en": "Duas and Dhikr After the Five Daily Prayers"
+  },
+  "subtitle": "১ বার",
+  "content": {
+    "items": [
+      {
+        "id": 1,
+        "text": "اَللّٰهُمَّ أَعِنِّيْ عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+        "translation": "হে আল্লাহ, আমাকে আপনার যিক্‌র করার এবং শোকর করার ও সুন্দরভাবে আপনার ইবাদতের জন্য সাহায্য করুন।",
+        "showDivider": false,
+        "words": [
+          {
+            "ar": "اَللّٰهُمَّ",
+            "bn": "হে আল্লাহ"
+          },
+          {
+            "ar": "أَعِنِّيْ",
+            "bn": "আমাকে সাহায্য করুন"
+          },
+          {
+            "ar": "عَلَى",
+            "bn": "উপর"
+          },
+          {
+            "ar": "ذِكْرِكَ",
+            "bn": "আপনার স্মরণ"
+          },
+          {
+            "ar": "وَشُكْرِكَ",
+            "bn": "এবং আপনার কৃতজ্ঞতা"
+          },
+          {
+            "ar": "وَحُسْنِ",
+            "bn": "উত্তম / সুন্দর"
+          },
+          {
+            "ar": "عِبَادَتِكَ",
+            "bn": "আপনার ইবাদত"
+          }
+        ]
+      }
+    ],
+    "fullTranslation": "",
+    "reference": "সুনানে আবু দাঊদ, হাদীস নং- ১৫২২"
+  },
+  "settings": {
+    "textSize": {
+      "text": 66,
+      "wordByWord": 14,
+      "translation": 18
+    },
+    "show": {
+      "wordByWordTranslation": true,
+      "translation": true,
+      "fullTranslation": false,
+      "reference": true,
+      "divider": true
+    },
+    "dividerMargin": 0
+  }
+}

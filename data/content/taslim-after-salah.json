@@ -1,0 +1,54 @@
+{
+  "id": "taslim-after-salah",
+  "type": "dua",
+  "title": {
+    "ar": "تَسْلِيْم",
+    "bn": "সালাতের শেষে তাসলীম",
+    "en": "Taslim at the End of Salah"
+  },
+  "content": {
+    "items": [
+      {
+        "id": 1,
+        "text": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ",
+        "translation": "আপনাদের ওপর শান্তি এবং আল্লাহর রহমত বর্ষিত হোক।",
+        "showDivider": false,
+        "words": [
+          {
+            "ar": "اَلسَّلَامُ",
+            "bn": "শান্তি"
+          },
+          {
+            "ar": "عَلَيْكُمْ",
+            "bn": "আপনাদের ওপর"
+          },
+          {
+            "ar": "وَرَحْمَةُ",
+            "bn": "এবং রহমত"
+          },
+          {
+            "ar": "اللّٰهِ",
+            "bn": "আল্লাহর"
+          }
+        ]
+      }
+    ],
+    "fullTranslation": "আপনাদের ওপর শান্তি এবং আল্লাহর রহমত বর্ষিত হোক।",
+    "reference": "সহীহ মুসলিম, হাদীস নং- ৫৮২"
+  },
+  "settings": {
+    "textSize": {
+      "text": 70,
+      "wordByWord": 14,
+      "translation": 18
+    },
+    "show": {
+      "wordByWordTranslation": true,
+      "translation": true,
+      "fullTranslation": false,
+      "reference": true,
+      "divider": true
+    },
+    "dividerMargin": 0
+  }
+}
