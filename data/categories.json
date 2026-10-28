@@ -6,6 +6,7 @@
       "bn": "কুরআন",
       "ar": "القرآن"
     },
+    "span": "1",
     "items": [
       "surah-al-fatihah",
       "ayat-al-kursi",
@@ -24,6 +25,7 @@
       "bn": "দু’আ",
       "ar": "دُعَاءً"
     },
+    "span": "1",
     "items": [
       "sayyidul-istighfar",
       "sayyidul-istighfar-as-paragraph",
@@ -49,6 +51,7 @@
       "en": "Dua",
       "bn": "সালাতের দু‘আ ও যিক্‌র"
     },
+    "span": "2",
     "items": [
       "adhan",
       "adhan-response",
@@ -70,6 +73,7 @@
       "en": "Duas and Dhikr After Salah",
       "bn": "সালাত পরবর্তী দু‘আ ও যিক্‌র"
     },
+    "span": "2",
     "items": [
       "duas-and-dhikr-after-five-daily-prayers-01",
       "ayat-al-kursi",
@@ -86,10 +90,11 @@
     "slug": "salawat",
     "type:": "dua",
     "title": {
-      "en": "Others",
-      "bn": "সালাওয়াত বা দরুদ"
+      "en": "salawat",
+      "bn": "দরুদ"
     },
-    "items": ["durood-e-ibrahim", "durood","durood-extended"]
+    "span": "1",
+    "items": ["durood-e-ibrahim", "durood", "durood-extended"]
   },
   {
     "slug": "mix-of-everything",
@@ -98,6 +103,7 @@
       "en": "Others",
       "bn": "অন্যান্য"
     },
+    "span": "1",
     "items": ["dua-istighfar-tawakkul"]
   }
 ]
