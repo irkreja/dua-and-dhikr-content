@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "items": [
     {
       "id": "adhan-response",
@@ -51,8 +51,8 @@
         "dua"
       ],
       "title": {
-        "bn": "জ্ঞান বৃদ্ধির দোয়া",
-        "en": "Dua for Increasing Knowledge"
+        "bn": "জ্ঞান ও প্রজ্ঞা বৃদ্ধি, জড়তা দূর এবং কাজ সহজ হওয়ার দোয়া",
+        "en": "Dua for increasing knowledge and wisdom, removing inertia, and making work easier"
       }
     },
     {
