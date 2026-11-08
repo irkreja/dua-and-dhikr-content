@@ -19,6 +19,23 @@
     ]
   },
   {
+    "slug": "morning-and-evening-dua-and-dhikr",
+    "type:": "dua",
+    "title": {
+      "en": "Morning and Evening Du’a and Dhikr",
+      "bn": "সকাল-সন্ধ্যা"
+    },
+    "span": "1",
+    "items": [
+      "ayat-al-kursi",
+      "the-3-quls",
+      "tawakkul-dua-tawbah-last-ayah",
+      "sayyidul-istighfar-as-paragraph",
+      "dua-for-protection-from-all-harm",
+      "dhikr-for-10-rewards-and-protection-from-shaytan"
+    ]
+  },
+  {
     "slug": "duas-and-dhikr-of-salah",
     "title": {
       "en": "Dua",
@@ -57,23 +74,6 @@
       "surah-al-falaq",
       "surah-an-nas",
       "duas-and-dhikr-after-five-daily-prayers-05"
-    ]
-  },
-  {
-    "slug": "morning-and-evening-dua-and-dhikr",
-    "type:": "dua",
-    "title": {
-      "en": "Morning and Evening Du’a and Dhikr",
-      "bn": "সকাল - সন্ধ্যা"
-    },
-    "span": "1",
-    "items": [
-      "ayat-al-kursi",
-      "the-3-quls",
-      "tawakkul-dua-tawbah-last-ayah",
-      "sayyidul-istighfar-as-paragraph",
-      "dua-for-protection-from-all-harm",
-      "dhikr-for-10-rewards-and-protection-from-shaytan"
     ]
   },
   {
