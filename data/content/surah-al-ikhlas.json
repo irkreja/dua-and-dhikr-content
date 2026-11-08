@@ -147,9 +147,9 @@
   },
   "settings": {
     "textSize": {
-      "text": 80,
-      "wordByWord": 14,
-      "translation": 18
+      "text": 30,
+      "wordByWord": 10,
+      "translation": 12
     },
     "show": {
       "wordByWordTranslation": true,
