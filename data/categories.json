@@ -19,33 +19,6 @@
     ]
   },
   {
-    "slug": "dua",
-    "title": {
-      "en": "Dua",
-      "bn": "দু’আ",
-      "ar": "دُعَاءً"
-    },
-    "span": "1",
-    "items": [
-      "sayyidul-istighfar",
-      "sayyidul-istighfar-as-paragraph",
-      "dua-for-increasing-knowledge",
-      "dua-using-ismu-azam-01",
-      "dua-using-ismu-azam-02",
-      "quranic-dua-01",
-      "quranic-dua-02",
-      "quranic-dua-03",
-      "dua-when-entering-and-leaving-toilet",
-      "dua-for-sleep-and-wake",
-      "dua-before-eating-and-dua-after-eating",
-      "dua-for-refuge-from-diseases",
-      "dua-for-refuge-from-evil-of-organs",
-      "dua-for-visiting-graves",
-      "dua-for-knowledge-sustenance-and-accepted-deeds",
-      "dua-for-rizq-and-needs"
-    ]
-  },
-  {
     "slug": "duas-and-dhikr-of-salah",
     "title": {
       "en": "Dua",
@@ -87,6 +60,23 @@
     ]
   },
   {
+    "slug": "morning-and-evening-dua-and-dhikr",
+    "type:": "dua",
+    "title": {
+      "en": "Morning and Evening Du’a and Dhikr",
+      "bn": "সকাল - সন্ধ্যা"
+    },
+    "span": "1",
+    "items": [
+      "ayat-al-kursi",
+      "the-3-quls",
+      "tawakkul-dua-tawbah-last-ayah",
+      "sayyidul-istighfar-as-paragraph",
+      "dua-for-protection-from-all-harm",
+      "dhikr-for-10-rewards-and-protection-from-shaytan"
+    ]
+  },
+  {
     "slug": "salawat",
     "type:": "dua",
     "title": {
@@ -95,6 +85,33 @@
     },
     "span": "1",
     "items": ["durood-e-ibrahim", "durood", "durood-extended"]
+  },
+  {
+    "slug": "dua",
+    "title": {
+      "en": "Dua",
+      "bn": "দু’আ",
+      "ar": "دُعَاءً"
+    },
+    "span": "1",
+    "items": [
+      "sayyidul-istighfar",
+      "sayyidul-istighfar-as-paragraph",
+      "dua-for-increasing-knowledge",
+      "dua-using-ismu-azam-01",
+      "dua-using-ismu-azam-02",
+      "quranic-dua-01",
+      "quranic-dua-02",
+      "quranic-dua-03",
+      "dua-when-entering-and-leaving-toilet",
+      "dua-for-sleep-and-wake",
+      "dua-before-eating-and-dua-after-eating",
+      "dua-for-refuge-from-diseases",
+      "dua-for-refuge-from-evil-of-organs",
+      "dua-for-visiting-graves",
+      "dua-for-knowledge-sustenance-and-accepted-deeds",
+      "dua-for-rizq-and-needs"
+    ]
   },
   {
     "slug": "mix-of-everything",

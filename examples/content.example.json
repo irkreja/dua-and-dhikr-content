@@ -11,6 +11,7 @@
     "items": [
       {
         "id": 1,
+        "position": "center",
         "text": "",
         "translation": "",
         "showDivider": true,
@@ -63,7 +64,9 @@
       }
     ],
     "fullTranslation": "",
-    "reference": ""
+    "reference": "",
+    "virtue": "",
+    "source": ""
   },
   "settings": {
     "textSize": {

@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "items": [
     {
       "id": "adhan-response",
@@ -35,6 +35,16 @@
       }
     },
     {
+      "id": "dhikr-for-10-rewards-and-protection-from-shaytan",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "১০ নেকি, গুনাহ মাফ ও শয়তান থেকে সুরক্ষার আমল",
+        "en": "10 Rewards, 10 Sins Erased and Protection from Satan"
+      }
+    },
+    {
       "id": "dua-before-eating-and-dua-after-eating",
       "types": [
         "dua"
@@ -64,6 +74,16 @@
         "ar": "دُعَاءٌ بَعۡدَ صَلَاةِ الۡفَجۡرِ",
         "bn": "উপকারী জ্ঞান, হালাল রিজিক ও কবুলযোগ্য আমলের দু‘আ",
         "en": "Dua After Fajr"
+      }
+    },
+    {
+      "id": "dua-for-protection-from-all-harm",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "সকল অনিষ্ট ও বিপদ থেকে সুরক্ষার দু‘আ",
+        "en": "Dua for Protection from All Harm"
       }
     },
     {
@@ -438,6 +458,16 @@
         "ar": "تَسْلِيْم",
         "bn": "সালাতের শেষে তাসলীম",
         "en": "Taslim at the End of Salah"
+      }
+    },
+    {
+      "id": "tawakkul-dua-tawbah-last-ayah",
+      "types": [
+        "quran"
+      ],
+      "title": {
+        "bn": "সূরা আত-তাওবা এর শেষ আয়াতের তাওয়াক্কুলের দু‘আ",
+        "en": "Dua of Tawakkul from the Last Verse of Surah At-Tawba"
       }
     },
     {
