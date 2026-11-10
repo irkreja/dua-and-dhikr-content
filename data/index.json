@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "items": [
     {
       "id": "adhan-response",
@@ -147,6 +147,26 @@
         "ar": "زِیَارَةُ الۡقُبُوۡرِ",
         "bn": "কবর যিয়ারতের দু‘আ",
         "en": "Dua for Visiting the Graves"
+      }
+    },
+    {
+      "id": "dua-in-times-of-distress",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "ইস্তিগাসা (ٱلِٱسْتِغَاثَةُ): সংকটে আকুল সাহায্য প্রার্থনার দু‘আ",
+        "en": "Dua in Times of Distress"
+      }
+    },
+    {
+      "id": "dua-istighatha",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "ইস্তিগাসা (ٱلِٱسْتِغَاثَةُ): আকুলভাবে সাহায্য প্রার্থনার দু‘আ",
+        "en": "Istighāthah (ٱلِٱسْتِغَاثَةُ): A Du‘ā for Earnestly Seeking Help"
       }
     },
     {
