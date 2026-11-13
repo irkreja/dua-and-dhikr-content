@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "items": [
     {
       "id": "adhan-response",
@@ -53,6 +53,16 @@
         "ar": "دُعَاءُ الطَّعَامِ",
         "bn": "খাওয়ার আগের দোয়া ও পরের দু‘আ",
         "en": "Duas for Eating"
+      }
+    },
+    {
+      "id": "dua-for-debt-and-poverty",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "ঋণ পরিশোধ ও দারিদ্র্য থেকে মুক্তির দু‘আ",
+        "en": "Dua for Repaying Debt and Freedom from Poverty."
       }
     },
     {
@@ -123,8 +133,8 @@
         "dua"
       ],
       "title": {
-        "bn": "সংকট ও প্রয়োজনের দু‘আ",
-        "en": "Duas for Hardship and Need"
+        "bn": "হালাল ও উত্তম রিজিকের দু‘আ (وَرِزْقًا طَيِّبًا)",
+        "en": "Duas for Halal & Good Sustenance."
       }
     },
     {
@@ -136,6 +146,16 @@
         "ar": "دُعَاءُ النَّوۡمِ وَالۡاِسۡتِيۡقَاظِ",
         "bn": "ঘুমানোর সময় ও ঘুম থেকে ওঠার দু‘আ",
         "en": "Dua for Sleeping and Waking Up"
+      }
+    },
+    {
+      "id": "dua-for-the-qalb",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "অন্তরের (قَلْب) পবিত্রতা ও অবিচলতার দু‘আ",
+        "en": "Duas for the Purification and Steadfastness of the Heart (Qalb)"
       }
     },
     {
@@ -326,6 +346,16 @@
         "ar": "اَلصَّلٰوةُ وَالسَّلَامُ عَلٰى النَّبِيِّ ﷺ",
         "bn": "নবী ﷺ-এর প্রতি সালাত ও সালাম",
         "en": "Durood"
+      }
+    },
+    {
+      "id": "istighfar",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "ইস্তিগফার (الِاسْتِغْفَارُ): আল্লাহর কাছে ক্ষমা প্রার্থনা",
+        "en": "The act of seeking forgiveness from Allah ."
       }
     },
     {
