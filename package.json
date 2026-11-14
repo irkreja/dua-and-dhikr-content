@@ -1,10 +1,10 @@
 {
   "name": "dua-and-dhikr-content",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "private": true,
   "description": "Content repository for the Dua and Dhikr app",
   "scripts": {
-    "dev": "npx http-server ./data -p 3000 -a 0.0.0.0 -c-1",
+    "dev": "npx http-server ./data -p 3003 -a 0.0.0.0 -c-1",
     "generate:index": "node scripts/generate-content-index.js",
     "generate:ayat": "node scripts/fetch-ayat-content.js"
   },

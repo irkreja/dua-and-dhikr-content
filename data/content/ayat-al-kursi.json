@@ -13,8 +13,13 @@
         "id": 1,
         "position": "center",
         "text": "",
-        "translation": "আমি আল্লাহর কাছে বিতাড়িত শয়তান থেকে আশ্রয় চাই।",
-        "showDivider": true,
+        "translation": "",
+        "showDivider": false,
+        "textSize": {
+          "mobile": {
+            "text": 16
+          }
+        },
         "words": [
           {
             "ar": "اَعُوْذُ",
@@ -42,8 +47,13 @@
         "id": 2,
         "position": "center",
         "text": "",
-        "translation": "রহমান, রহীম আল্লাহ্‌র নামে",
+        "translation": "আমি আল্লাহর কাছে বিতাড়িত শয়তান থেকে আশ্রয় চাই। রহমান, রহীম আল্লাহ্‌র নামে",
         "showDivider": true,
+        "textSize": {
+          "mobile": {
+            "text": 16
+          }
+        },
         "words": [
           {
             "ar": "بِسْمِ",
@@ -66,7 +76,8 @@
       {
         "id": 3,
         "text": "",
-        "translation": "আল্লাহ, তিনি ছাড়া কোনো হক ইলাহ্‌ নেই। তিনি চিরঞ্জীব, সর্বসত্তার ধারক। তাঁকে তন্দ্রাও স্পর্শ করতে পারে না, নিদ্রাও নয়।",
+        "translation": "আল্লাহ, তিনি ছাড়া কোনো হক ইলাহ্‌ নেই। তিনি চিরঞ্জীব, সর্বসত্তার ধারক।",
+        "showDivider": false,
         "words": [
           {
             "ar": "اَللّٰهُ",
@@ -95,7 +106,15 @@
           {
             "ar": "الْقَیُّوْمُ ۚ۬",
             "bn": "সর্বসত্তার ধারক"
-          },
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "text": "",
+        "translation": "তাঁকে তন্দ্রাও স্পর্শ করতে পারে না, নিদ্রাও নয়।",
+        "showDivider": false,
+        "words": [
           {
             "ar": "لَا",
             "bn": "না"
@@ -122,6 +141,7 @@
         "id": 4,
         "text": "",
         "translation": "আসমানসমূহে যা রয়েছে ও যমীনে যা রয়েছে সবই তাঁর।",
+        "showDivider": false,
         "words": [
           {
             "ar": "لَهٗ",
@@ -157,6 +177,7 @@
         "id": 5,
         "text": "",
         "translation": "কে সে, যে তাঁর অনুমতি ব্যতীত তাঁর কাছে সুপারিশ করবে?",
+        "showDivider": false,
         "words": [
           {
             "ar": "مَنْ",
@@ -192,6 +213,7 @@
         "id": 6,
         "text": "",
         "translation": "তাদের সামনে ও পেছনে যা কিছু আছে তা তিনি জানেন।",
+        "showDivider": false,
         "words": [
           {
             "ar": "یَعْلَمُ",
@@ -223,6 +245,7 @@
         "id": 7,
         "text": "",
         "translation": "আর যা তিনি ইচ্ছে করেন তা ছাড়া তাঁর জ্ঞানের কোনো কিছুকেই তারা পরিবেষ্টন করতে পারে না।",
+        "showDivider": false,
         "words": [
           {
             "ar": "وَلَا",
@@ -262,6 +285,12 @@
         "id": 8,
         "text": "",
         "translation": "তাঁর ‘কুরসী’ আসমানসমূহ ও যমীনকে পরিব্যাপ্ত করে আছে; আর এ দুটোর রক্ষণাবেক্ষণ তাঁর জন্য বোঝা হয় না।",
+        "textSize": {
+          "mobile": {
+            "text": 25
+          }
+        },
+        "showDivider": false,
         "words": [
           {
             "ar": "وَسِعَ",
@@ -297,6 +326,7 @@
         "id": 9,
         "text": "",
         "translation": "আর তিনি সুউচ্চ সুমহান।",
+        "showDivider": false,
         "words": [
           {
             "ar": "وَهُوَ",
@@ -311,7 +341,7 @@
             "bn": "সুমহান"
           },
           {
-            "ar": "۟",
+            "ar": "۟۝",
             "bn": "(২৫৫)"
           }
         ]
@@ -324,9 +354,16 @@
   },
   "settings": {
     "textSize": {
-      "text": 55,
-      "wordByWord": 14,
-      "translation": 18
+      "web": {
+        "text": 55,
+        "wordByWord": 14,
+        "translation": 18
+      },
+      "mobile": {
+        "text": 28,
+        "wordByWord": 6,
+        "translation": 8
+      }
     },
     "show": {
       "wordByWordTranslation": true,
