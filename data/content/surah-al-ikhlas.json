@@ -146,10 +146,17 @@
     "reference": "সুনানে আবু দাঊদ, হাদীস নং- ১৫২৩; বুখারী, হাদিস নং- ৫০১৭; তিরমিজী, হাদিস নং- ৩৫৭৫;"
   },
   "settings": {
-    "textSize": {
-      "text": 30,
-      "wordByWord": 10,
-      "translation": 12
+"textSize": {
+      "web": {
+        "text": 80,
+        "wordByWord": 10,
+        "translation": 12
+      },
+      "mobile": {
+        "text": 36,
+        "wordByWord": 10,
+        "translation": 14
+      }
     },
     "show": {
       "wordByWordTranslation": true,

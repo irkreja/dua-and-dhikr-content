@@ -10,9 +10,15 @@
     "items": [
       {
         "id": 1,
+        "position": "center",
         "text": "",
-        "translation": "আমি আল্লাহর কাছে বিতাড়িত শয়তান থেকে আশ্রয় চাই।",
-        "showDivider": true,
+        "translation": "",
+        "showDivider": false,
+        "textSize": {
+          "mobile": {
+            "text": 26
+          }
+        },
         "words": [
           {
             "ar": "اَعُوْذُ",
@@ -33,15 +39,20 @@
           {
             "ar": "الرَّجِیْمِ",
             "bn": "বিতাড়িত"
-          },
-          { "ar": "۝", "bn": "" }
+          }
         ]
       },
       {
         "id": 2,
+        "position": "center",
         "text": "",
-        "translation": "রহমান, রহীম আল্লাহ্‌র নামে",
+        "translation": "আমি আল্লাহর কাছে বিতাড়িত শয়তান থেকে আশ্রয় চাই। রহমান, রহীম আল্লাহ্‌র নামে।",
         "showDivider": true,
+        "textSize": {
+          "mobile": {
+            "text": 26
+          }
+        },
         "words": [
           {
             "ar": "بِسْمِ",
@@ -58,10 +69,6 @@
           {
             "ar": "الرَّحِیْمِ",
             "bn": "অসীম দয়ালু"
-          },
-          {
-            "ar": "۟",
-            "bn": ""
           }
         ]
       },
@@ -96,7 +103,7 @@
       {
         "id": 4,
         "text": "",
-        "translation": "দয়াময়, পরম দয়ালু,",
+        "translation": "দয়াময়, পরম দয়ালু, বিচার দিনের মালিক।",
         "showDivider": true,
         "words": [
           {
@@ -110,16 +117,8 @@
           {
             "ar": "۟ۙ",
             "bn": "(৩)"
-          }
-        ]
-      },
-      {
-        "id": 5,
-        "text": "",
-        "translation": "বিচার দিনের মালিক।",
-        "showDivider": true,
-        "words": [
-          {
+          },
+                    {
             "ar": "مٰلِكِ",
             "bn": "অধিপতি"
           },
@@ -138,7 +137,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "text": "",
         "translation": "আমরা শুধু আপনারই ‘ইবাদাত করি, এবং শুধু আপনারই সাহায্য প্রার্থনা করি,",
         "showDivider": true,
@@ -166,7 +165,7 @@
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "text": "",
         "translation": "আমাদেরকে সরল পথের হিদায়াত দিন",
         "showDivider": true,
@@ -190,7 +189,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 7,
         "text": "",
         "translation": "",
         "showDivider": false,
@@ -214,7 +213,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 8,
         "text": "",
         "translation": "তাদের পথ, যাদেরকে আপনি নি‘আমত দিয়েছেন, যাদের উপর আপনার ক্রোধ আপতিত হয়নি এবং যারা পথভ্রষ্টও নয়",
         "showDivider": true,
@@ -244,18 +243,6 @@
             "bn": "(৭)"
           }
         ]
-      },
-      {
-        "id": 8,
-        "text": "",
-        "translation": "",
-        "showDivider": true,
-        "words": [
-          {
-            "ar": "آمِيْنَ",
-            "bn": "হে আল্লাহ, কবুল করুন।"
-          }
-        ]
       }
     ],
     "fullTranslation": "",
@@ -263,9 +250,16 @@
   },
   "settings": {
     "textSize": {
-      "text": 80,
-      "wordByWord": 14,
-      "translation": 18
+      "web": {
+        "text": 80,
+        "wordByWord": 14,
+        "translation": 18
+      },
+      "mobile": {
+        "text": 28,
+        "wordByWord": 10,
+        "translation": 12
+      }
     },
     "show": {
       "wordByWordTranslation": true,

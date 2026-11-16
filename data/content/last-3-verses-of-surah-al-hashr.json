@@ -11,6 +11,11 @@
         "id": 1,
         "text": "",
         "translation": "আমি সর্বশ্রোতা, সর্বজ্ঞ আল্লাহর কাছে বিতাড়িত শয়তান থেকে আশ্রয় চাই।",
+        "textSize": {
+          "mobile": {
+            "text": 20
+          }
+        },
         "words": [
           {
             "ar": "اَعُوْذُ",
@@ -278,9 +283,16 @@
   },
   "settings": {
     "textSize": {
-      "text": 55,
-      "wordByWord": 14,
-      "translation": 18
+      "web": {
+        "text": 55,
+        "wordByWord": 14,
+        "translation": 18
+      },
+      "mobile": {
+        "text": 26,
+        "wordByWord": 8,
+        "translation": 12
+      }
     },
     "show": {
       "wordByWordTranslation": true,

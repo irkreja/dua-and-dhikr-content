@@ -88,9 +88,16 @@
   },
   "settings": {
     "textSize": {
-      "text": 75,
-      "wordByWord": 14,
-      "translation": 18
+      "web": {
+        "text": 75,
+        "wordByWord": 14,
+        "translation": 18
+      },
+      "mobile": {
+        "text": 36,
+        "wordByWord": 9,
+        "translation": 13
+      }
     },
     "show": {
       "wordByWordTranslation": true,

@@ -1,5 +1,5 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "items": [
     {
       "id": "adhan-response",
@@ -186,7 +186,7 @@
       ],
       "title": {
         "bn": "ইস্তিগাসা (ٱلِٱسْتِغَاثَةُ): আকুলভাবে সাহায্য প্রার্থনার দু‘আ",
-        "en": "Istighāthah (ٱلِٱسْتِغَاثَةُ): A Du‘ā for Earnestly Seeking Help"
+        "en": "Istighāthah: A Du‘ā for Earnestly Seeking Help"
       }
     },
     {
@@ -412,17 +412,6 @@
       }
     },
     {
-      "id": "sayyidul-istighfar-as-paragraph",
-      "types": [
-        "dua"
-      ],
-      "title": {
-        "ar": "سَيِّدُ الْاِسْتِغْفَارِ",
-        "bn": "সাইয়্যিদুল ইস্তিগফার",
-        "en": "Sayyidul Istighfar"
-      }
-    },
-    {
       "id": "sayyidul-istighfar",
       "types": [
         "dua"
@@ -478,14 +467,23 @@
       }
     },
     {
-      "id": "tasbih-and-dua-of-ruku-and-sujood",
+      "id": "tasbih-and-dua-of-ruku",
       "types": [
         "dua"
       ],
       "title": {
-        "ar": "تَسۡبِيۡحُ الرُّكُوۡعِ وَالسُّجُوۡدِ وَدُعَاؤُهُمَا",
-        "bn": "রুকু ও সিজদাহ এর তাসবীহ ও দু‘আ",
-        "en": "Tasbih and Dua of Ruku & Sujood"
+        "bn": "রুকু এর তাসবীহ ও দু‘আ",
+        "en": "Tasbih and Dua of Ruku"
+      }
+    },
+    {
+      "id": "tasbih-and-dua-of-sujood",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "সিজদাহ এর তাসবীহ ও দু‘আ",
+        "en": "Tasbih and Dua of Sujood"
       }
     },
     {

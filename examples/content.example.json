@@ -17,6 +17,11 @@
         "showDivider": true,
         "badgeText": "১০০ বার",
         "badgeIcon": "repeat",
+        "textSize": {
+          "mobile": {
+            "text": 25
+          }
+        },
         "words": [
           {
             "ar": "",

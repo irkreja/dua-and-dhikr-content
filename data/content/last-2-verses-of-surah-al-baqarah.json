@@ -575,9 +575,16 @@
   },
   "settings": {
     "textSize": {
-      "text": 55,
-      "wordByWord": 14,
-      "translation": 18
+      "web": {
+        "text": 55,
+        "wordByWord": 14,
+        "translation": 18
+      },
+      "mobile": {
+        "text": 32,
+        "wordByWord": 8,
+        "translation": 10
+      }
     },
     "show": {
       "wordByWordTranslation": true,
