@@ -369,7 +369,7 @@
       }
     },
     "show": {
-      "wordByWordTranslation": false,
+      "wordByWordTranslation": true,
       "translation": true,
       "fullTranslation": false,
       "reference": false,

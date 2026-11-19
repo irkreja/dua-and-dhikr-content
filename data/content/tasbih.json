@@ -1,0 +1,54 @@
+{
+  "id": "tasbih",
+  "type": "dhikr",
+  "title": {
+    "bn": "তাসবিহে ফাতেমি: তাসবীহ"
+  },
+  "subtitle": "সকাল-সন্ধ্যায় ১০০ বার, ঘুমের আগে ও ফরয সালাতের পর ৩৩ বার",
+  "content": {
+    "items": [
+      {
+        "id": 1,
+        "position": "center",
+        "text": "سُبْحَانَ اللّٰهِ",
+        "translation": "\nআল্লাহ্‌র পবিত্রতা (ঘোষণা করছি)।\n\nআল্লাহ সম্পূর্ণ পবিত্র ও মহান। তিনি সব ধরনের দোষ, ত্রুটি, দুর্বলতা এবং অপূর্ণতা থেকে সম্পূর্ণ মুক্ত ও পবিত্র।",
+        "showDivider": true,
+        "words": [
+          {
+            "ar": "سُبْحَانَ",
+            "bn": "পবিত্রতা\n (ঘোষণা করছি)"
+          },
+          {
+            "ar": "اللّٰهِ",
+            "bn": "আল্লাহর"
+          }
+        ]
+      }
+    ],
+    "fullTranslation": "",
+    "reference": ""
+  },
+  "settings": {
+    "textSize": {
+      "web": {
+        "text": 68,
+        "wordByWord": 12,
+        "translation": 18
+      },
+      "mobile": {
+        "text": 70,
+        "wordByWord": 16,
+        "translation": 16
+      }
+    },
+    "show": {
+      "wordByWordTranslation": true,
+      "translation": true,
+      "fullTranslation": false,
+      "reference": false,
+      "divider": true
+    },
+    "gap": { "wordByWord": 20 },
+    "dividerMargin": 0
+  }
+}

@@ -24,6 +24,17 @@
       }
     },
     {
+      "id": "ayat-al-kursi-with-tajweed",
+      "types": [
+        "quran"
+      ],
+      "title": {
+        "ar": "آيَة ٱلْكُرْسِيّ",
+        "bn": "আয়াতুল কুরসী (তাজউইদসহ)",
+        "en": "Ayat al-Kursi with tajweed"
+      }
+    },
+    {
       "id": "ayat-al-kursi",
       "types": [
         "quran"
@@ -306,16 +317,6 @@
       }
     },
     {
-      "id": "duas-and-dhikr-after-five-daily-prayers-05",
-      "types": [
-        "dua"
-      ],
-      "title": {
-        "bn": "পাঁচ ওয়াক্ত সালাত পরবর্তী মাসনূন দু‘আ ও যিক্‌র",
-        "en": "Duas and Dhikr After the Five Daily Prayers"
-      }
-    },
-    {
       "id": "durood-e-ibrahim",
       "types": [
         "dua"
@@ -467,6 +468,24 @@
       }
     },
     {
+      "id": "tahmid",
+      "types": [
+        "dhikr"
+      ],
+      "title": {
+        "bn": "তাসবিহে ফাতেমি: তাহমীদ"
+      }
+    },
+    {
+      "id": "takbir",
+      "types": [
+        "dhikr"
+      ],
+      "title": {
+        "bn": "তাসবিহে ফাতেমি: তাকবীর"
+      }
+    },
+    {
       "id": "tasbih-and-dua-of-ruku",
       "types": [
         "dua"
@@ -484,6 +503,15 @@
       "title": {
         "bn": "সিজদাহ এর তাসবীহ ও দু‘আ",
         "en": "Tasbih and Dua of Sujood"
+      }
+    },
+    {
+      "id": "tasbih",
+      "types": [
+        "dhikr"
+      ],
+      "title": {
+        "bn": "তাসবিহে ফাতেমি: তাসবীহ"
       }
     },
     {
@@ -527,6 +555,16 @@
         "ar": "ثَنَاءٌ",
         "bn": "সানা (প্রশংসা)",
         "en": "Thana (Opening Supplication)"
+      }
+    },
+    {
+      "id": "the-3-quls-with-tajweed",
+      "types": [
+        "quran"
+      ],
+      "title": {
+        "bn": "সূরা ইখলাস, সূরা ফালাক্ব, সূরা নাস (তাজউইদসহ)",
+        "en": "The 3 Quls with tajweed"
       }
     },
     {

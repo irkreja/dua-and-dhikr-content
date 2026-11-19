@@ -1,0 +1,54 @@
+{
+  "id": "tahmid",
+  "type": "dhikr",
+  "title": {
+    "bn": "তাসবিহে ফাতেমি: তাহমীদ"
+  },
+  "subtitle": "সকাল-সন্ধ্যায় ১০০ বার, ঘুমের আগে ও ফরয সালাতের পর ৩৩ বার",
+  "content": {
+    "items": [
+      {
+        "id": 1,
+        "position": "center",
+        "text": "اَلْحَمْدُ لِلّٰهِ",
+        "translation": "\nসকল প্রশংসা ও কৃতজ্ঞতা আল্লাহর জন্য।",
+        "showDivider": true,
+        "words": [
+          {
+            "ar": "اَلْحَمْدُ",
+            "bn": "সকল প্রশংসা ও কৃতজ্ঞতা"
+          },
+          {
+            "ar": "لِلّٰهِ",
+            "bn": "আল্লাহর জন্য"
+          }
+        ]
+      }
+    ],
+    "fullTranslation": "",
+    "reference": ""
+  },
+  "settings": {
+    "textSize": {
+      "web": {
+        "text": 68,
+        "wordByWord": 12,
+        "translation": 18
+      },
+      "mobile": {
+        "text": 70,
+        "wordByWord": 16,
+        "translation": 16
+      }
+    },
+    "show": {
+      "wordByWordTranslation": true,
+      "translation": true,
+      "fullTranslation": false,
+      "reference": false,
+      "divider": true
+    },
+    "gap": { "wordByWord": 20 },
+    "dividerMargin": 0
+  }
+}

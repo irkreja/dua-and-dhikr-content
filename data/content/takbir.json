@@ -1,0 +1,54 @@
+{
+  "id": "takbir",
+  "type": "dhikr",
+  "title": {
+    "bn": "তাসবিহে ফাতেমি: তাকবীর"
+  },
+  "subtitle": "সকাল-সন্ধ্যায় ১০০ বার, ঘুমের আগে ও ফরয সালাতের পর ৩৪ বার",
+  "content": {
+    "items": [
+      {
+        "id": 1,
+        "position": "center",
+        "text": "اَللّٰهُ اَكْبَرُ",
+        "translation": "\nআল্লাহ সবচেয়ে মহান।",
+        "showDivider": true,
+        "words": [
+          {
+            "ar": "اَللّٰهُ",
+            "bn": "আল্লাহ"
+          },
+          {
+            "ar": "اَكْبَرُ",
+            "bn": "সবচেয়ে মহান"
+          }
+        ]
+      }
+    ],
+    "fullTranslation": "",
+    "reference": ""
+  },
+  "settings": {
+    "textSize": {
+      "web": {
+        "text": 68,
+        "wordByWord": 12,
+        "translation": 18
+      },
+      "mobile": {
+        "text": 70,
+        "wordByWord": 16,
+        "translation": 16
+      }
+    },
+    "show": {
+      "wordByWordTranslation": true,
+      "translation": true,
+      "fullTranslation": false,
+      "reference": false,
+      "divider": true
+    },
+    "gap": { "wordByWord": 20 },
+    "dividerMargin": 0
+  }
+}

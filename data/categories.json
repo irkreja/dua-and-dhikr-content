@@ -10,10 +10,12 @@
     "items": [
       "surah-al-fatihah",
       "ayat-al-kursi",
+      "ayat-al-kursi-with-tajweed",
       "surah-al-ikhlas",
       "surah-al-falaq",
       "surah-an-nas",
       "the-3-quls",
+      "the-3-quls-with-tajweed",
       "last-2-verses-of-surah-al-baqarah",
       "last-3-verses-of-surah-al-hashr"
     ]
@@ -27,22 +29,23 @@
     },
     "span": "1",
     "items": [
-      "ayat-al-kursi",
-      "the-3-quls",
+      "ayat-al-kursi-with-tajweed",
+      "the-3-quls-with-tajweed",
       "tawakkul-dua-tawbah-last-ayah",
       "sayyidul-istighfar",
       "dua-for-protection-from-all-harm",
       "dhikr-for-10-rewards-and-protection-from-shaytan",
-      "dua-istighatha"
+      "dua-istighatha",
+      "last-3-verses-of-surah-al-hashr"
     ]
   },
   {
     "slug": "duas-and-dhikr-of-salah",
     "title": {
       "en": "Dua",
-      "bn": "সালাতের দু‘আ ও যিক্‌র"
+      "bn": "সালাত"
     },
-    "span": "2",
+    "span": "1",
     "items": [
       "adhan",
       "adhan-response",
@@ -63,17 +66,36 @@
     "type:": "dua",
     "title": {
       "en": "Duas and Dhikr After Salah",
-      "bn": "সালাত পরবর্তী দু‘আ ও যিক্‌র"
+      "bn": "সালাত পরবর্তী"
     },
-    "span": "2",
+    "span": "1",
     "items": [
       "duas-and-dhikr-after-five-daily-prayers-01",
-      "ayat-al-kursi",
+      "ayat-al-kursi-with-tajweed",
       "duas-and-dhikr-after-five-daily-prayers-02",
       "duas-and-dhikr-after-five-daily-prayers-03",
       "duas-and-dhikr-after-five-daily-prayers-04",
-      "the-3-quls",
-      "duas-and-dhikr-after-five-daily-prayers-05"
+      "the-3-quls-with-tajweed",
+      "tasbih",
+      "tahmid",
+      "takbir",
+      "dhikr-for-10-rewards-and-protection-from-shaytan"
+    ]
+  },
+  {
+    "slug": "sleep",
+    "type:": "dua",
+    "title": {
+      "en": "sleep",
+      "bn": "ঘুম"
+    },
+    "span": "1",
+    "items": [
+      "ayat-al-kursi-with-tajweed",
+      "last-2-verses-of-surah-al-baqarah",
+      "the-3-quls-with-tajweed",
+      "dua-for-sleep-and-wake",
+      "dhikr-for-10-rewards-and-protection-from-shaytan"
     ]
   },
   {
@@ -85,6 +107,16 @@
     },
     "span": "1",
     "items": ["durood-e-ibrahim", "durood", "durood-extended"]
+  },
+  {
+    "slug": "quranic-dua",
+    "title": {
+      "en": "Quranic Dua",
+      "bn": "দু’আ (কুরআন)",
+      "ar": "دُعَاءً"
+    },
+    "span": "1",
+    "items": ["quranic-dua-01", "quranic-dua-02", "quranic-dua-03"]
   },
   {
     "slug": "dua",
@@ -105,7 +137,6 @@
       "quranic-dua-02",
       "quranic-dua-03",
       "dua-when-entering-and-leaving-toilet",
-      "dua-for-sleep-and-wake",
       "dua-before-eating-and-dua-after-eating",
       "dua-for-refuge-from-diseases",
       "dua-for-refuge-from-evil-of-organs",
