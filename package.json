@@ -1,6 +1,6 @@
 {
   "name": "dua-and-dhikr-content",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "private": true,
   "description": "Content repository for the Dua and Dhikr app",
   "scripts": {

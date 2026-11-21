@@ -435,13 +435,13 @@
         "translation": 18
       },
       "mobile": {
-        "text": 20,
+        "text": 24,
         "wordByWord": 7,
         "translation": 8
       }
     },
     "show": {
-      "wordByWordTranslation": true,
+      "wordByWordTranslation": false,
       "translation": true,
       "fullTranslation": false,
       "reference": false,

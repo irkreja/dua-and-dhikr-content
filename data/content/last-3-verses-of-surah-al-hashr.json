@@ -283,7 +283,7 @@
       }
     ],
     "fullTranslation": "",
-    "reference": "সুনানে তিরমিযী, হাদীস নং: ২৯২২"
+    "reference": ""
   },
   "settings": {
     "page_number": 548,
@@ -300,10 +300,10 @@
       }
     },
     "show": {
-      "wordByWordTranslation": true,
+      "wordByWordTranslation": false,
       "translation": true,
       "fullTranslation": false,
-      "reference": true,
+      "reference": false,
       "divider": true
     },
     "dividerMargin": 0

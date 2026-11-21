@@ -1,0 +1,71 @@
+{
+  "id": "rabbana-afrigh-alayna-sabran",
+  "type": "dua",
+  "title": {
+    "bn": "ধৈর্য ও মুসলিম অবস্থায় মৃত্যুর দু‘আ",
+    "en": "Dua for Patience and Dying as Muslims"
+  },
+  "content": {
+    "items": [
+      {
+        "id": 1,
+        "showDivider": false,
+        "text": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ.",
+        "pronunciation": "রব্বানা- আফরিগ ‘আলাইনা- সবরাওঁ ওয়া তাওয়াফফানা- মুসলিমীন।",
+        "translation": "হে আমাদের রব! আমাদের ওপর পরিপূর্ণ ধৈর্য ঢেলে দিন এবং আমাদেরকে মুসলিম অবস্থায় মৃত্যু দান করুন।",
+        "words": [
+          {
+            "ar": "رَبَّنَا",
+            "bn": "হে আমাদের রব"
+          },
+          {
+            "ar": "أَفْرِغْ",
+            "bn": "ঢেলে দিন"
+          },
+          {
+            "ar": "عَلَيْنَا",
+            "bn": "আমাদের ওপর"
+          },
+          {
+            "ar": "صَبْرًا",
+            "bn": "ধৈর্য"
+          },
+          {
+            "ar": "وَتَوَفَّنَا",
+            "bn": "এবং আমাদের মৃত্যু দান করুন"
+          },
+          {
+            "ar": "مُسْلِمِينَ.",
+            "bn": "মুসলিম অবস্থায়"
+          }
+        ]
+      }
+    ],
+    "fullTranslation": "",
+    "reference": "সূরা আল-আ‘রাফ, ৭:১২৬",
+    "virtue": "ফিরআউনের জাদুকরেরা ঈমান আনার পর ফিরআউন তাদের হাত-পা কেটে শূলে চড়ানোর হুমকি দিলে তারা অবিচল থেকে আল্লাহর নিকট এই দোয়া করেছিলেন।",
+    "source": "Al-Quran"
+  },
+  "settings": {
+    "textSize": {
+      "web": {
+        "text": 90,
+        "wordByWord": 14,
+        "translation": 18
+      },
+      "mobile": {
+        "text": 40,
+        "wordByWord": 8,
+        "translation": 12
+      }
+    },
+    "show": {
+      "wordByWordTranslation": true,
+      "translation": true,
+      "fullTranslation": false,
+      "reference": true,
+      "divider": true
+    },
+    "dividerMargin": 0
+  }
+}

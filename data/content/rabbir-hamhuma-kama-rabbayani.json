@@ -1,0 +1,67 @@
+{
+  "id": "rabbir-hamhuma-kama-rabbayani",
+  "type": "dua",
+  "title": {
+    "bn": "পিতা-মাতার জন্য রহমত ও দয়ার দু‘আ",
+    "en": "Dua for Mercy on Parents"
+  },
+  "content": {
+    "items": [
+      {
+        "id": 1,
+        "showDivider": false,
+        "text": "رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا.",
+        "pronunciation": "রব্বির হামহুমা- কামা- রব্বাইয়া-নী সগীর-।",
+        "translation": "হে আমার রব! তাঁদের প্রতি দয়া করুন যেভাবে শৈশবে তাঁরা আমাকে প্রতিপালন করেছিলেন।",
+        "words": [
+          {
+            "ar": "رَبِّ",
+            "bn": "হে আমার রব"
+          },
+          {
+            "ar": "ارْحَمْهُمَا",
+            "bn": "তাঁদের উভয়ের\nপ্রতি দয়া করুন"
+          },
+          {
+            "ar": "كَمَا",
+            "bn": "যেভাবে"
+          },
+          {
+            "ar": "رَبَّيَانِي",
+            "bn": "তাঁরা আমাকে\nপ্রতিপালন করেছিলেন"
+          },
+          {
+            "ar": "صَغِيرًا.",
+            "bn": "শৈশবে"
+          }
+        ]
+      }
+    ],
+    "fullTranslation": "",
+    "reference": "সূরা আল-ইসরা (বনী ইসরাঈল), ১৭:২৪",
+    "virtue": "পিতা-মাতার প্রতি সদাচরণ ও তাঁদের কল্যাণ কামনায় কুরআনে শেখানো অন্যতম শ্রেষ্ঠ দু‘আ।",
+    "source": "Al-Quran"
+  },
+  "settings": {
+    "textSize": {
+      "web": {
+        "text": 90,
+        "wordByWord": 14,
+        "translation": 18
+      },
+      "mobile": {
+        "text": 40,
+        "wordByWord": 8,
+        "translation": 12
+      }
+    },
+    "show": {
+      "wordByWordTranslation": true,
+      "translation": true,
+      "fullTranslation": false,
+      "reference": true,
+      "divider": true
+    },
+    "dividerMargin": 0
+  }
+}

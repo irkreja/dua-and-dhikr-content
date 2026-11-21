@@ -1,0 +1,72 @@
+{
+  "id": "auzu-bikalimatillahi-tammati",
+  "type": "dua",
+  "title": {
+    "bn": "বিষধর প্রাণীর অনিষ্ট থেকে রক্ষা পাওয়ার দু‘আ",
+    "en": "Dua for Seeking Refuge When Arriving at a Place"
+  },
+  "subtitle": "সন্ধ্যায় ৩ বার",
+  "content": {
+    "items": [
+      {
+        "id": 1,
+        "showDivider": false,
+        "text": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ.",
+        "pronunciation": "আউযু বিকালিমা-তিল্লা-হিত তা-ম্মা-তি মিন শার্রি মা- খালাক্ব।",
+        "translation": "আমি আল্লাহর পরিপূর্ণ বাণীসমূহের মাধ্যমে তাঁর সৃষ্টির সকল অনিষ্ট থেকে আশ্রয় প্রার্থনা করছি।",
+        "words": [
+          {
+            "ar": "أَعُوذُ",
+            "bn": "আমি আশ্রয় প্রার্থনা করছি"
+          },
+          {
+            "ar": "بِكَلِمَاتِ",
+            "bn": "বাণীসমূহের মাধ্যমে"
+          },
+          {
+            "ar": "اللَّهِ",
+            "bn": "আল্লাহর"
+          },
+          {
+            "ar": "التَّامَّاتِ",
+            "bn": "পরিপূর্ণ"
+          },
+          {
+            "ar": "مِنْ شَرِّ",
+            "bn": "অনিষ্ট থেকে"
+          },
+          {
+            "ar": "مَا خَلَقَ.",
+            "bn": "যা তিনি সৃষ্টি করেছেন"
+          }
+        ]
+      }
+    ],
+    "fullTranslation": "",
+    "reference": "",
+    "virtue": "যে ব্যক্তি সন্ধ্যায় এ দু'আটি ৩ বার বলবে সেই রাতে কোনো বিষধর প্রাণী তার ক্ষতি করতে পারবে না।",
+    "source": "আহমাদ, ১৫৭০৯; ইবনে মাজাহ, ৩৫১৮।"
+  },
+  "settings": {
+    "textSize": {
+      "web": {
+        "text": 90,
+        "wordByWord": 14,
+        "translation": 18
+      },
+      "mobile": {
+        "text": 40,
+        "wordByWord": 8,
+        "translation": 12
+      }
+    },
+    "show": {
+      "wordByWordTranslation": true,
+      "translation": true,
+      "fullTranslation": false,
+      "reference": false,
+      "divider": true
+    },
+    "dividerMargin": 0
+  }
+}

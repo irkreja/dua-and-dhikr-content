@@ -36,7 +36,16 @@
       "dua-for-protection-from-all-harm",
       "dhikr-for-10-rewards-and-protection-from-shaytan",
       "dua-istighatha",
-      "last-3-verses-of-surah-al-hashr"
+      "last-3-verses-of-surah-al-hashr",
+      "dua-for-pardon-and-safety-in-dunya-and-akhirah",
+      "subhanallahi-wa-bihamdihi-adada-khalqihi",
+      "allahumma-inni-asaluka-ilman-nafian",
+      "auzu-bikalimatillahi-tammati",
+      "raditu-billahi-rabban",
+      "allahumma-ajirni-minan-nar",
+      "tasbih",
+      "tahmid",
+      "takbir"
     ]
   },
   {
@@ -111,12 +120,36 @@
   {
     "slug": "quranic-dua",
     "title": {
-      "en": "Quranic Dua",
-      "bn": "দু’আ (কুরআন)",
+      "en": "Dua for Salawat",
+      "bn": "দু’আ (নামাজ)",
       "ar": "دُعَاءً"
     },
     "span": "1",
-    "items": ["quranic-dua-01", "quranic-dua-02", "quranic-dua-03"]
+    "items": [
+      "the-promise-of-answer",
+      "the-promise-of-answer-full",
+      "the-promise-of-answer-1",
+      "the-promise-of-answer-2",
+      "rabbana-atina-fid-dunya",
+      "rabbana-zalamna-anfusana",
+      "rabbana-faghfir-lana-zunubana",
+      "rabbir-hamhuma-kama-rabbayani",
+      "rabbana-hab-lana-min-azwajina",
+      "rabbi-inni-lima-anzalta-ilayya",
+      "rabbana-la-tuzigh-qulubana",
+      "rabbana-atina-min-ladunka",
+      "rabbanaghfir-lana-wa-li-ikhwanina",
+      "rabbanaghfir-li-wa-liwalidayya",
+      "rabbighfir-li-wa-liwalidayya-nuh",
+      "allahummaghfir-lil-muslimina-wal-muslimat",
+      "allahumma-innaka-afuwwun-tuhibbul-afwa",
+      "rabbana-afrigh-alayna-sabran",
+      "allahumma-sallim-sallim-barik-li-fil-mawt",
+      "rabbana-innana-amanna-faghfir-lana",
+      "rabbi-auzu-bika-min-hamazatish-shayatin",
+      "rabbi-awzini-an-ashkura-nimataka",
+      "rabbana-amanna-faghfir-lana-warhamna"
+    ]
   },
   {
     "slug": "dua",
@@ -133,9 +166,6 @@
       "dua-for-increasing-knowledge",
       "dua-using-ismu-azam-01",
       "dua-using-ismu-azam-02",
-      "quranic-dua-01",
-      "quranic-dua-02",
-      "quranic-dua-03",
       "dua-when-entering-and-leaving-toilet",
       "dua-before-eating-and-dua-after-eating",
       "dua-for-refuge-from-diseases",

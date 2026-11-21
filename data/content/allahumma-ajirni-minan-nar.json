@@ -1,0 +1,60 @@
+{
+  "id": "allahumma-ajirni-minan-nar",
+  "type": "dua",
+  "title": {
+    "bn": "জাহান্নাম থেকে আশ্রয় প্রার্থনার দু‘আ",
+    "en": "Dua for Seeking Refuge from the Fire"
+  },
+  "subtitle": "ফজর ও মাগরিবের পর ৭ বার",
+  "content": {
+    "items": [
+      {
+        "id": 1,
+        "showDivider": false,
+        "text": "اللَّهُمَّ أَجِرْنِي مِنَ النَّارِ.",
+        "pronunciation": "আল্লা-হুম্মা আজির্নী মিনান্না-র।",
+        "translation": "হে আল্লাহ! আমাকে জাহান্নাম থেকে রক্ষা করুন।",
+        "words": [
+          {
+            "ar": "اللَّهُمَّ",
+            "bn": "হে আল্লাহ"
+          },
+          {
+            "ar": "أَجِرْنِي",
+            "bn": "আমাকে রক্ষা করুন / আশ্রয় দিন"
+          },
+          {
+            "ar": "مِنَ النَّارِ.",
+            "bn": "জাহান্নাম থেকে"
+          }
+        ]
+      }
+    ],
+    "fullTranslation": "",
+    "reference": "সুনানে আবু দাউদ, হাদীস নং ৫০৭৯",
+    "virtue": "হারিস ইবনে মুসলিম (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ (সা.) ফজর ও মাগরিবের নামাজের পর এই দু‘আটি সাতবার করে পড়তেন। (হাদীসের সনদে কিছুটা দুর্বলতা থাকলেও এটি ফযীলতের হাদীস হিসেবে বিবেচিত)",
+    "source": "Hadith"
+  },
+  "settings": {
+    "textSize": {
+      "web": {
+        "text": 90,
+        "wordByWord": 14,
+        "translation": 18
+      },
+      "mobile": {
+        "text": 40,
+        "wordByWord": 8,
+        "translation": 12
+      }
+    },
+    "show": {
+      "wordByWordTranslation": true,
+      "translation": true,
+      "fullTranslation": false,
+      "reference": true,
+      "divider": true
+    },
+    "dividerMargin": 0
+  }
+}

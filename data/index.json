@@ -1,5 +1,5 @@
 {
-  "version": "1.0.20",
+  "version": "1.0.21",
   "items": [
     {
       "id": "adhan-response",
@@ -21,6 +21,66 @@
         "ar": "أَذَان وَإِقَامَة",
         "bn": "আযান ও ইক্বামত",
         "en": "Adhan & Iqamah"
+      }
+    },
+    {
+      "id": "allahumma-ajirni-minan-nar",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "জাহান্নাম থেকে আশ্রয় প্রার্থনার দু‘আ",
+        "en": "Dua for Seeking Refuge from the Fire"
+      }
+    },
+    {
+      "id": "allahumma-innaka-afuwwun-tuhibbul-afwa",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "লাইলাতুল কদরের দু‘আ (ক্ষমা প্রার্থনা)",
+        "en": "Dua for Laylatul Qadr (Seeking Forgiveness)"
+      }
+    },
+    {
+      "id": "allahumma-inni-asaluka-ilman-nafian",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "উপকারী জ্ঞান, হালাল রিজিক ও কবুলযোগ্য আমলের দু‘আ",
+        "en": "Dua for Beneficial Knowledge, Good Provision and Accepted Deeds"
+      }
+    },
+    {
+      "id": "allahumma-sallim-sallim-barik-li-fil-mawt",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "মৃত্যু ও মৃত্যুপরবর্তী জীবনে নিরাপত্তা ও বরকতের দু‘আ",
+        "en": "Dua for Safety and Blessing in Death and the Hereafter"
+      }
+    },
+    {
+      "id": "allahummaghfir-lil-muslimina-wal-muslimat",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "মুসলিম ও মুমিন নর-নারীদের জন্য ক্ষমা প্রার্থনার দু‘আ",
+        "en": "Dua for Forgiveness of Muslim and Believing Men and Women"
+      }
+    },
+    {
+      "id": "auzu-bikalimatillahi-tammati",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "বিষধর প্রাণীর অনিষ্ট থেকে রক্ষা পাওয়ার দু‘আ",
+        "en": "Dua for Seeking Refuge When Arriving at a Place"
       }
     },
     {
@@ -95,6 +155,16 @@
         "ar": "دُعَاءٌ بَعۡدَ صَلَاةِ الۡفَجۡرِ",
         "bn": "উপকারী জ্ঞান, হালাল রিজিক ও কবুলযোগ্য আমলের দু‘আ",
         "en": "Dua After Fajr"
+      }
+    },
+    {
+      "id": "dua-for-pardon-and-safety-in-dunya-and-akhirah",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "দুনিয়া ও আখিরাতে ক্ষমা এবং নিরাপত্তার জন্য দু‘আ",
+        "en": "Dua for Pardon and Safety in Dunya and Akhirah"
       }
     },
     {
@@ -413,6 +483,176 @@
       }
     },
     {
+      "id": "rabbana-afrigh-alayna-sabran",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "ধৈর্য ও মুসলিম অবস্থায় মৃত্যুর দু‘আ",
+        "en": "Dua for Patience and Dying as Muslims"
+      }
+    },
+    {
+      "id": "rabbana-amanna-faghfir-lana-warhamna",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "ঈমানের উসিলায় ক্ষমা ও রহমত প্রার্থনার দু‘আ",
+        "en": "Dua for Forgiveness and Mercy Through Faith"
+      }
+    },
+    {
+      "id": "rabbana-atina-fid-dunya",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "দুনিয়া ও আখিরাতের কল্যাণ এবং জাহান্নাম থেকে মুক্তির দু‘আ",
+        "en": "Dua for Good in This World and the Hereafter"
+      }
+    },
+    {
+      "id": "rabbana-atina-min-ladunka",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "যে দু‘আয় মিরাকল ঘটে",
+        "en": "Dua for Allah's Mercy and Right Guidance"
+      }
+    },
+    {
+      "id": "rabbana-faghfir-lana-zunubana",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "গুনাহ মাফ ও নেককারদের সাথে মৃত্যুর দু‘আ",
+        "en": "Dua for Forgiveness of Sins and Death with the Righteous"
+      }
+    },
+    {
+      "id": "rabbana-hab-lana-min-azwajina",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "নেককার স্ত্রী ও সন্তান লাভের দু‘আ",
+        "en": "Dua for Righteous spouse and children"
+      }
+    },
+    {
+      "id": "rabbana-innana-amanna-faghfir-lana",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "ঈমানের উসিলায় গুনাহ মাফ ও জাহান্নাম থেকে মুক্তির দু‘আ",
+        "en": "Dua for Forgiveness and Protection from Hellfire by Faith"
+      }
+    },
+    {
+      "id": "rabbana-la-tuzigh-qulubana",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "হিদায়াতের ওপর অটল থাকা এবং রহমত লাভের দু‘আ",
+        "en": "Dua for Steadfastness in Guidance and Mercy"
+      }
+    },
+    {
+      "id": "rabbana-zalamna-anfusana",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "নিজেদের ওপর যুলুমের পর ক্ষমা ও রহমত লাভের দু‘আ",
+        "en": "Dua for Forgiveness and Mercy After Wronging Oneself"
+      }
+    },
+    {
+      "id": "rabbanaghfir-lana-wa-li-ikhwanina",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "অন্তর পরিষ্কারের দু‘আ",
+        "en": "Dua for Forgiveness and Removing Rancor from the Heart"
+      }
+    },
+    {
+      "id": "rabbanaghfir-li-wa-liwalidayya",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "নিজের, পিতা-মাতা ও মুমিনদের জন্য ক্ষমা প্রার্থনার দু‘আ",
+        "en": "Dua for Forgiveness for Oneself, Parents and the Believers"
+      }
+    },
+    {
+      "id": "rabbi-auzu-bika-min-hamazatish-shayatin",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "শয়তানের কুমন্ত্রণা ও উপস্থিতি থেকে আশ্রয় প্রার্থনার দু‘আ",
+        "en": "Dua for Seeking Refuge from the Whispers and Presence of Devils"
+      }
+    },
+    {
+      "id": "rabbi-awzini-an-ashkura-nimataka",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "নিয়ামতের শুকরিয়া, নেক আমল ও সৎকর্মশীলদের অন্তর্ভুক্ত হওয়ার দু‘আ",
+        "en": "Dua for Gratitude, Righteous Deeds, and Joining the Righteous"
+      }
+    },
+    {
+      "id": "rabbi-inni-lima-anzalta-ilayya",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "আল্লাহর অনুগ্রহ ও কল্যাণ লাভের দু‘আ",
+        "en": "Dua for Allah's Blessing and Good"
+      }
+    },
+    {
+      "id": "rabbighfir-li-wa-liwalidayya-nuh",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "নিজের, পিতা-মাতা ও গৃহের মুমিনদের জন্য ক্ষমা প্রার্থনার দু‘আ",
+        "en": "Prophet Nuh's Dua for Forgiveness of Self, Parents and the Believers"
+      }
+    },
+    {
+      "id": "rabbir-hamhuma-kama-rabbayani",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "পিতা-মাতার জন্য রহমত ও দয়ার দু‘আ",
+        "en": "Dua for Mercy on Parents"
+      }
+    },
+    {
+      "id": "raditu-billahi-rabban",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "ইসলাম ও রাসূলের প্রতি সন্তুষ্টি প্রকাশের দু‘আ",
+        "en": "Dua of Contentment with Allah, Islam and the Prophet"
+      }
+    },
+    {
       "id": "sayyidul-istighfar",
       "types": [
         "dua"
@@ -421,6 +661,16 @@
         "ar": "سَيِّدُ الْاِسْتِغْفَارِ",
         "bn": "সাইয়্যিদুল ইস্তিগফার",
         "en": "Sayyidul Istighfar"
+      }
+    },
+    {
+      "id": "subhanallahi-wa-bihamdihi-adada-khalqihi",
+      "types": [
+        "dhikr"
+      ],
+      "title": {
+        "bn": "চার কালিমার তাসবীহ (সৃষ্টির সংখ্যা পরিমাণ তাসবীহ)",
+        "en": "Tasbih of the Four Phrases (Equal to the Number of His Creation)"
       }
     },
     {
@@ -575,6 +825,46 @@
       "title": {
         "bn": "সূরা ইখলাস, সূরা ফালাক্ব, সূরা নাস",
         "en": "The 3 Quls"
+      }
+    },
+    {
+      "id": "the-promise-of-answer-1",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "চিরসত্য ওয়াদার উসিলায় দু‘আ কবুলের প্রার্থনা",
+        "en": "Supplication by Your True Promise"
+      }
+    },
+    {
+      "id": "the-promise-of-answer-2",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "আদেশ পালনের পর ওয়াদা পূরণের প্রার্থনা",
+        "en": "Supplication for Fulfillment of Promise"
+      }
+    },
+    {
+      "id": "the-promise-of-answer-full",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "দু‘আ কবুলের ওয়াদার উসিলায় প্রার্থনা (সম্পূর্ণ)",
+        "en": "The Promise of Answer"
+      }
+    },
+    {
+      "id": "the-promise-of-answer",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "দু‘আ কবুলের ওয়াদার উসিলায় প্রার্থনা",
+        "en": "The Promise of Answer"
       }
     }
   ]
