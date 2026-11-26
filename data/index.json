@@ -1,5 +1,5 @@
 {
-  "version": "1.0.26",
+  "version": "1.0.27",
   "items": [
     {
       "id": "adhan-response",
@@ -71,6 +71,16 @@
       "title": {
         "bn": "মৃত্যু ও মৃত্যুপরবর্তী জীবনে নিরাপত্তা ও বরকতের দু‘আ",
         "en": "Dua for Safety and Blessing in Death and the Hereafter"
+      }
+    },
+    {
+      "id": "allahumma-ya-ghaniyyu-ya-hamid",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "হালাল রিযিক ও আল্লাহর অনুগ্রহ প্রার্থনার দু‘আ",
+        "en": "Dua for Halal Provision and Self-Sufficiency Through Allah"
       }
     },
     {
