@@ -1,5 +1,5 @@
 {
-  "version": "1.0.25",
+  "version": "1.0.26",
   "items": [
     {
       "id": "adhan-response",
@@ -678,8 +678,8 @@
         "dua"
       ],
       "title": {
-        "bn": "ইসলাম ও রাসূলের প্রতি সন্তুষ্টি প্রকাশের দু‘আ",
-        "en": "Dua of Contentment with Allah, Islam and the Prophet"
+        "bn": "আল্লাহ, ইসলাম, নবী ও কুরআনের প্রতি সন্তুষ্টির দু‘আ",
+        "en": "Dua of Contentment with Allah, Islam, the Prophet and the Quran"
       }
     },
     {
@@ -783,6 +783,15 @@
       "title": {
         "bn": "সিজদাহ এর তাসবীহ ও দু‘আ",
         "en": "Tasbih and Dua of Sujood"
+      }
+    },
+    {
+      "id": "tasbih-of-fatimah",
+      "types": [
+        "dhikr"
+      ],
+      "title": {
+        "bn": "তাসবিহে ফাতেমি: তাসবীহ, তাহমীদ ও তাকবীর"
       }
     },
     {

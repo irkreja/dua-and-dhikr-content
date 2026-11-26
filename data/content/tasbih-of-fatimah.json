@@ -1,0 +1,88 @@
+{
+  "id": "tasbih-of-fatimah",
+  "type": "dhikr",
+  "title": {
+    "bn": "তাসবিহে ফাতেমি: তাসবীহ, তাহমীদ ও তাকবীর"
+  },
+  "subtitle": "সকাল-সন্ধ্যায় ১২০ বার, ঘুমের আগে ও ফরয সালাতের পর ৩৩,৩৩,৩৪ বার",
+  "content": {
+    "items": [
+      {
+        "id": 1,
+        "position": "center",
+        "text": "سُبْحَانَ اللّٰهِ",
+        "translation": "\nআল্লাহ্‌র পবিত্রতা (ঘোষণা করছি)।\n\nআল্লাহ সম্পূর্ণ পবিত্র ও মহান। তিনি সব ধরনের দোষ, ত্রুটি, দুর্বলতা এবং অপূর্ণতা থেকে সম্পূর্ণ মুক্ত ও পবিত্র।",
+        "showDivider": true,
+        "words": [
+          {
+            "ar": "سُبْحَانَ",
+            "bn": "পবিত্রতা\n (ঘোষণা করছি)"
+          },
+          {
+            "ar": "اللّٰهِ",
+            "bn": "আল্লাহর"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "position": "center",
+        "text": "اَلْحَمْدُ لِلّٰهِ",
+        "translation": "\nসকল প্রশংসা ও কৃতজ্ঞতা আল্লাহর জন্য।",
+        "showDivider": true,
+        "words": [
+          {
+            "ar": "اَلْحَمْدُ",
+            "bn": "সকল প্রশংসা ও কৃতজ্ঞতা"
+          },
+          {
+            "ar": "لِلّٰهِ",
+            "bn": "আল্লাহর জন্য"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "position": "center",
+        "text": "اَللّٰهُ اَكْبَرُ",
+        "translation": "\nআল্লাহ সবচেয়ে মহান।",
+        "showDivider": true,
+        "words": [
+          {
+            "ar": "اَللّٰهُ",
+            "bn": "আল্লাহ"
+          },
+          {
+            "ar": "اَكْبَرُ",
+            "bn": "সবচেয়ে মহান"
+          }
+        ]
+      }
+    ],
+    "fullTranslation": "",
+    "reference": ""
+  },
+  "settings": {
+    "textSize": {
+      "web": {
+        "text": 68,
+        "wordByWord": 12,
+        "translation": 18
+      },
+      "mobile": {
+        "text": 70,
+        "wordByWord": 16,
+        "translation": 16
+      }
+    },
+    "show": {
+      "wordByWordTranslation": true,
+      "translation": true,
+      "fullTranslation": false,
+      "reference": false,
+      "divider": true
+    },
+    "gap": { "wordByWord": 20 },
+    "dividerMargin": 0
+  }
+}

@@ -5,7 +5,7 @@
     "bn": "পাঁচ ওয়াক্ত সালাত পরবর্তী মাসনূন দু‘আ ও যিক্‌র",
     "en": "Duas and Dhikr After the Five Daily Prayers"
   },
-  "subtitle": "ফরয সালাতের পর ১ বার",
+  "subtitle": "ফরয সালাতের পর ৩ বার",
   "content": {
     "items": [
       {
@@ -181,7 +181,7 @@
       "mobile": {
         "text": 36,
         "wordByWord": 8,
-        "translation": 10
+        "translation": 14
       }
     },
     "show": {

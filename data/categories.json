@@ -45,9 +45,7 @@
       "auzu-bikalimatillahi-tammati",
       "raditu-billahi-rabban",
       "allahumma-ajirni-minan-nar",
-      "tasbih",
-      "tahmid",
-      "takbir"
+      "tasbih-of-fatimah"
     ]
   },
   {
@@ -83,15 +81,14 @@
     "span": "1",
     "items": [
       "duas-and-dhikr-after-five-daily-prayers-01",
-      "ayat-al-kursi-with-tajweed",
+      "ayat-al-kursi",
       "duas-and-dhikr-after-five-daily-prayers-02",
       "duas-and-dhikr-after-five-daily-prayers-03",
       "duas-and-dhikr-after-five-daily-prayers-04",
-      "the-3-quls-with-tajweed",
-      "tasbih",
-      "tahmid",
-      "takbir",
-      "dhikr-for-10-rewards-and-protection-from-shaytan"
+      "the-3-quls",
+      "tasbih-of-fatimah",
+      "dhikr-for-10-rewards-and-protection-from-shaytan",
+      "allahumma-inni-asaluka-ilman-nafian"
     ]
   },
   {
@@ -178,6 +175,21 @@
       "dua-for-debt-and-poverty",
       "dua-in-times-of-distress",
       "dua-for-rizq-and-needs"
+    ]
+  },
+  {
+    "slug": "dhikr",
+    "type:": "dhikr",
+    "title": {
+      "en": "Dhikr",
+      "bn": "যিক্‌র"
+    },
+    "span": "1",
+    "items": [
+      "tasbih",
+      "tahmid",
+      "takbir",
+      "dhikr-for-10-rewards-and-protection-from-shaytan"
     ]
   },
   {
