@@ -1,5 +1,5 @@
 {
-  "version": "1.0.24",
+  "version": "1.0.25",
   "items": [
     {
       "id": "adhan-response",
@@ -31,6 +31,16 @@
       "title": {
         "bn": "জাহান্নাম থেকে আশ্রয় প্রার্থনার দু‘আ",
         "en": "Dua for Seeking Refuge from the Fire"
+      }
+    },
+    {
+      "id": "allahumma-ighfir-li-dhanbi-kullahu",
+      "types": [
+        "dua"
+      ],
+      "title": {
+        "bn": "সব গুনাহ মাফের দু‘আ",
+        "en": "Dua for Forgiveness of All Sins"
       }
     },
     {
@@ -430,6 +440,16 @@
       }
     },
     {
+      "id": "last-2-verses-of-surah-al-baqarah-with-tajweed",
+      "types": [
+        "quran"
+      ],
+      "title": {
+        "bn": "সূরা বাক্বারার শেষ ২ আয়াত (তাজউইদসহ)",
+        "en": "The Last 2 Verses of Surah Al-Baqarah"
+      }
+    },
+    {
       "id": "last-2-verses-of-surah-al-baqarah",
       "types": [
         "quran"
@@ -437,6 +457,16 @@
       "title": {
         "bn": "সূরা বাক্বারার শেষ ২ আয়াত",
         "en": "The Last 2 Verses of Surah Al-Baqarah"
+      }
+    },
+    {
+      "id": "last-3-verses-of-surah-al-hashr-with-tajweed",
+      "types": [
+        "quran"
+      ],
+      "title": {
+        "bn": "সূরা হাশরের শেষ ৩ আয়াত (তাজউইদসহ)",
+        "en": "The Last 3 Verses of Surah Al-Hashr"
       }
     },
     {

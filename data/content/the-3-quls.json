@@ -428,13 +428,13 @@
         "translation": 18
       },
       "mobile": {
-        "text": 22,
+        "text": 28,
         "wordByWord": 7,
-        "translation": 8
+        "translation": 10
       }
     },
     "show": {
-      "wordByWordTranslation": true,
+      "wordByWordTranslation": false,
       "translation": true,
       "fullTranslation": false,
       "reference": true,

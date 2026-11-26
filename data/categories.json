@@ -17,7 +17,9 @@
       "the-3-quls",
       "the-3-quls-with-tajweed",
       "last-2-verses-of-surah-al-baqarah",
-      "last-3-verses-of-surah-al-hashr"
+      "last-2-verses-of-surah-al-baqarah-with-tajweed",
+      "last-3-verses-of-surah-al-hashr",
+      "last-3-verses-of-surah-al-hashr-with-tajweed"
     ]
   },
   {
@@ -29,8 +31,8 @@
     },
     "span": "1",
     "items": [
-      "ayat-al-kursi-with-tajweed",
-      "the-3-quls-with-tajweed",
+      "ayat-al-kursi",
+      "the-3-quls",
       "tawakkul-dua-tawbah-last-ayah",
       "sayyidul-istighfar",
       "dua-for-protection-from-all-harm",
@@ -61,6 +63,7 @@
       "thana",
       "tasbih-and-dua-of-ruku",
       "tasbih-and-dua-of-sujood",
+      "allahumma-ighfir-li-dhanbi-kullahu",
       "tashahhud",
       "durood-e-ibrahim",
       "dua-masura",

@@ -13,17 +13,17 @@ const data = JSON.parse(
 
 // Transform verses
 const result = data.verses.map((verse) => ({
-  text: verse.code_v2 || "",
+  text: verse.text_indopak_nastaleeq || "",
 
   translation:
     verse.translations?.find(
       (t) => t.resource_id === 162
     )?.text || "",
 
-  page_number: verse.page_number,
+  // page_number: verse.page_number,
 
   words: (verse.words || []).map((word) => ({
-    ar: word.code_v2 || "",
+    ar: word.text_indopak_nastaleeq || "",
     bn: word.translation?.text || ""
   }))
 }));
